@@ -1,0 +1,7 @@
+{
+  "name": "rolApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
